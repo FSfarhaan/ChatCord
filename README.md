@@ -71,5 +71,6 @@ Contributions are welcome! Please create an issue or submit a pull request with 
 
 ## 📬 Contact
 
-If you have any questions or suggestions, feel free to contact me at [farhaan8d@gmail.com](mailto:farhaan8d@gmail.com) or connect me on https://www.linkedin.com/in/farhaan-shaikh-422301252/
+If you have any questions or suggestions, feel free to contact me at [farhaan8d@gmail.com](mailto:farhaan8d@gmail.com).
+or connect me on https://www.linkedin.com/in/farhaan-shaikh-422301252/
 ---
