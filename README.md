@@ -1,5 +1,3 @@
-Sure! Here is a README for your ChatCord project, formatted similarly:
-
 ---
 
 # 💬 ChatCord
@@ -91,5 +89,3 @@ Contributions are welcome! Please create an issue or submit a pull request with 
 If you have any questions or suggestions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
 
 ---
-
-Feel free to replace placeholder text and links with your actual information.
