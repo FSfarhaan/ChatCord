@@ -67,11 +67,10 @@ Contributions are welcome! Please create an issue or submit a pull request with 
 ## 📸 Screenshots
 
 <!-- Add screenshots of your app here. Example: -->
-![Screenshot1](screenshots/screenshot1.png)
-![Screenshot2](screenshots/screenshot2.png)
+![Screenshot1](screenshots/screenshot1.jpeg)
 
 ## 📬 Contact
 
-If you have any questions or suggestions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+If you have any questions or suggestions, feel free to contact me at [farhaan8d@gmail.com](mailto:farhaan8d@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/farhaan-shaikh-422301252/).
 
 ---
