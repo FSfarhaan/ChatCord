@@ -10,10 +10,7 @@ ChatCord is a web application that allows users to chat in real-time. Built usin
 
 - 📝 **Real-Time Messaging**: Instant message delivery using Socket.IO.
 - 🔐 **User Authentication**: Secure user authentication with JWT.
-- 🖋️ **CRUD Operations**: Full CRUD functionality for messages and user profiles.
-- 📱 **Responsive Design**: Optimized for both desktop and mobile devices.
-- 🟢 **User Status Indicators**: See when your friends are online.
-- 👥 **Private and Group Chats**: Engage in one-on-one or group conversations.
+- 🖋️ **CRUD Operations**: Full CRUD functionality using MERN Stack for messages and user authentication.
 
 ## 🚀 Installation
 
@@ -34,13 +31,6 @@ ChatCord is a web application that allows users to chat in real-time. Built usin
     npm install
     ```
 
-3. **Set up environment variables**:
-    - Create a `.env` file in the `backend` directory and add the following:
-    ```env
-    MONGO_URI=your-mongodb-uri
-    JWT_SECRET=your-jwt-secret
-    ```
-
 4. **Run the application**:
     ```bash
     # Start the backend server
@@ -57,16 +47,12 @@ ChatCord is a web application that allows users to chat in real-time. Built usin
 ## 🛠️ Usage
 
 1. **Register or login to your account**.
-2. **Start a new conversation or join an existing one**.
 3. **Enjoy real-time chatting with your friends**!
 
 ## 🧩 Code Overview
 
-### Main Components
-
 - **Frontend**: 
   - **React.js**: Handles the user interface.
-  - **Redux**: Manages the application state.
 - **Backend**: 
   - **Node.js and Express.js**: Manage the server and API endpoints.
 - **Database**: 
