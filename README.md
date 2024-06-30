@@ -69,7 +69,7 @@ Contributions are welcome! Please create an issue or submit a pull request with 
 <!-- Add screenshots of your app here. Example: -->
 ![Screenshot1](screenshots/screenshot1.jpeg)
 
-## 📬 ContScreenshotsact
+## 📬 Contact
 
 If you have any questions or suggestions, feel free to contact me at farhaan8@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/farhaan-shaikh-422301252/).
 
