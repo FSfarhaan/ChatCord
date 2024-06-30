@@ -16,7 +16,7 @@ ChatCord is a web application that allows users to chat in real-time. Built usin
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/chatcord.git
+    git clone https://github.com/FSfarhaan/ChatCord.git
     cd chatcord
     ```
 
