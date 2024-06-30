@@ -4,7 +4,7 @@
 
 ## 📖 Description
 
-**ChatCord** is a web application that allows users to chat in real-time. Built using the MERN stack, it supports all CRUD operations and utilizes Socket.IO for instantaneous message transfer between users.
+ChatCord is a web application that allows users to chat in real-time. Built using the MERN stack, it supports all CRUD operations and utilizes Socket.IO for instantaneous message transfer between users.
 
 ## ✨ Features
 
